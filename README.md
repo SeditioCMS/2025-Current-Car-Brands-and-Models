@@ -91,5 +91,5 @@ Yeniden satılması veya üçüncü kişilere dağıtılması kesinlikle yasakt�
 Özel projeler için marka/model filtrelenmiş özel veri ihtiyaçlarınız varsa bizimle iletişime geçebilirsiniz:
 
 📧 bilgi@carbrands.com.tr
-🌐 https://carbrands.com.tr/
+🌐 https://carbrands.com.tr
 
