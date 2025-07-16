@@ -46,7 +46,6 @@ Bu veritabanı, aşağıdaki alanlar için uygundur:
 CREATE TABLE marka (
   id INT AUTO_INCREMENT PRIMARY KEY,
   marka_adi VARCHAR(100),
-  marka_alias VARCHAR(100),
   logo_url VARCHAR(255)
 );
 
@@ -55,7 +54,6 @@ CREATE TABLE model (
   id INT AUTO_INCREMENT PRIMARY KEY,
   marka_id INT,
   model_adi VARCHAR(100),
-  model_alias VARCHAR(100),
   FOREIGN KEY (marka_id) REFERENCES marka(id)
 );
 
@@ -63,10 +61,7 @@ CREATE TABLE model (
 CREATE TABLE alt_model (
   id INT AUTO_INCREMENT PRIMARY KEY,
   model_id INT,
-  alt_model_adi VARCHAR(100),
-  alt_model_alias VARCHAR(100),
-  baslangic_yili INT,
-  bitis_yili INT,
+  alt_model_adi VARCHAR(255),
   FOREIGN KEY (model_id) REFERENCES model(id)
 );
 
@@ -76,6 +71,25 @@ CREATE TABLE model_secenekler (
   marka_id INT,
   model_id INT,
   alt_model_id INT,
-  secenek_adi VARCHAR(100),
-  secenek_alias VARCHAR(100)
+  secenek_adi VARCHAR(255)
 );
+```
+---
+
+## 🧩 Entegrasyon Kolaylığı
+PHP + MySQL uyumlu
+Laravel, CodeIgniter gibi framework'lerde kolay entegrasyon
+JSON API oluşturmak için kullanılabilir
+Mobil ve web uygulamalarda hızlı entegre edilebilir
+
+## 📄 Lisans
+Bu veritabanı sadece satın alan kullanıcı/kuruma aittir.
+Ticari veya bireysel projelerde kullanılabilir.
+Yeniden satılması veya üçüncü kişilere dağıtılması kesinlikle yasaktır.
+
+## 📬 İletişim & Destek
+Özel projeler için marka/model filtrelenmiş özel veri ihtiyaçlarınız varsa bizimle iletişime geçebilirsiniz:
+
+📧 bilgi@carbrands.com.tr
+🌐 https://carbrands.com.tr/
+
