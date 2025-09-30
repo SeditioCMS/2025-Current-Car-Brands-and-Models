@@ -66,8 +66,88 @@ Veritabanını hemen satın almak için paket seçenekleri:
 - 🌐 https://carbrands.com.tr
 - 📧 bilgi@carbrands.com.tr
 
+--------------------------------------------------------------
 
-## 🛠 Örnek Tablo Yapısı
+# 🚗 2026 Latest Car Brands and Models
+
+📦 **2026 Latest Car Brands and Models Database**
+
+This project provides a detailed SQL database containing the **most up-to-date car brands, models, sub-models, and trim/options** for 2026.  
+It can be used for car appraisal, comparison, listing platforms, galleries, and technical reviews.
+
+---
+
+## 🔗 Purchase
+
+You can purchase the database immediately with the following packages:
+
+| Package | Content | Price | Purchase |
+|:--------|:--------|:-----|:---------|
+| 🏷 **Brand** | Get brand information only | 💲25 | [Buy Now](https://carbrands.com.tr/buy-now) |
+| 🏷 **Brand + Model** | Get brand and model information | 💲75 | [Buy Now](https://carbrands.com.tr/buy-now) |
+| 🏷 **Brand + Model + Submodel** | Get brand, model, and submodel information | 💲250 | [Buy Now](https://carbrands.com.tr/buy-now) |
+| 🏷 **Brand + Model + Submodel + Options** | Get brand, model, submodel, and trim/options | 💲1,500 | [Buy Now](https://carbrands.com.tr/buy-now) |
+| 🏷 **Full Details** | Get all detailed data | 💲5,000 | [Buy Now](https://carbrands.com.tr/buy-now) |
+| 🏍 **Motorcycle Data** | All detailed motorcycle data | 💲500 | [Buy Now](https://carbrands.com.tr/buy-now) |
+| ⚙️ **Volume & Weight Data** | Vehicle volume and weight information | 💲125 | [Buy Now](https://carbrands.com.tr/buy-now) |
+| ⚖️ **Car Dimensions** | Vehicle dimensions information | 💲125 | [Buy Now](https://carbrands.com.tr/buy-now) |
+| 🏎 **Engine Performance** | Engine performance information | 💲125 | [Buy Now](https://carbrands.com.tr/buy-now) |
+| ⛽ **Fuel Consumption** | Fuel consumption data | 💲125 | [Buy Now](https://carbrands.com.tr/buy-now) |
+| 🔋 **Battery Data** | Vehicle battery information | 💲250 | [Buy Now](https://carbrands.com.tr/buy-now) |
+| 🛞 **Tire Sizes** | Tire size information | 💲250 | [Buy Now](https://carbrands.com.tr/buy-now) |
+| 🛞 **Wheel Sizes** | Wheel size information | 💲250 | [Buy Now](https://carbrands.com.tr/buy-now) |
+| ✨ **Custom Requests** | Custom data requests | 💲0 | [Buy Now](https://carbrands.com.tr/buy-now) |
+
+---
+
+## 📁 Contents
+
+- ✅ 350+ Car Brands  
+- ✅ 10,000+ Models & Submodels  
+- ✅ Trim and Option Details  
+- ✅ Production Years  
+- ✅ Ready-to-use SQL structure (InnoDB, utf8mb4)
+
+---
+
+## 🧩 Use Cases
+
+- 🖥 Car appraisal software  
+- 🌐 Car specification websites  
+- 🚘 Used car platforms  
+- 🏢 Rent A Car software  
+- ⚖️ Car comparison systems  
+- 📰 Automotive news sites  
+
+---
+
+## 🧩 Easy Integration
+
+- ✅ Compatible with PHP + MySQL  
+- ✅ Easy integration with frameworks like Laravel, CodeIgniter  
+- ✅ Can be used to create JSON APIs  
+- ✅ Quickly integratable with mobile and web applications  
+
+---
+
+## 📄 License
+
+- This database is only for the user/organization that purchases it.  
+- Can be used for commercial or personal projects.  
+- Redistribution or resale to third parties is strictly prohibited.  
+
+---
+
+## 📬 Contact & Support
+
+For custom projects or filtered brand/model data requests, you can contact us:
+
+- 🌐 [https://carbrands.com.tr](https://carbrands.com.tr)  
+- 📧 bilgi@carbrands.com.tr  
+
+---
+
+## 🛠 Örnek Tablo Yapısı - 🛠 Sample Table Structure
 
 ```sql
 -- Marka Tablosu
