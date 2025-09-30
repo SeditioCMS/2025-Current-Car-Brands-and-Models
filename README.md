@@ -1,22 +1,36 @@
-# 2025-Güncel-Araba-Markalar-ve-Modelleri
+# 🚗 2026 Güncel Araba Markalar ve Modelleri
 
-📦 **2025 Güncel Araba Markaları ve Modelleri Veritabanı**
+📦 **2026 Güncel Araba Markaları ve Modelleri Veritabanı**
 
-Bu proje, 2025 yılına ait **en güncel otomobil marka, model, alt model ve donanım seçeneklerini** içeren detaylı bir SQL veritabanı sunar. Oto ekspertiz, araç karşılaştırma, araç listeleme, galeri ve teknik inceleme gibi projelerde kullanılabilir.
+Bu proje, 2026 yılına ait **en güncel otomobil marka, model, alt model ve donanım seçeneklerini** içeren detaylı bir SQL veritabanı sunar.  
+Oto ekspertiz, araç karşılaştırma, araç listeleme, galeri ve teknik inceleme gibi projelerde kullanılabilir.
 
 ---
 
 ## 🔗 Satın Alma
 
-Veritabanını hemen satın almak için:
+Veritabanını hemen satın almak için paket seçenekleri:
 
-👉 [https://carbrands.com.tr/buy-now](https://carbrands.com.tr/buy-now)
+| Paket | İçerik | Fiyat | Satın Alma |
+|:----:|:------|:-----:|:-----------|
+| 🏷 **Marka** | Marka bilgilerini satın alırsınız (355 marka) | 💲25 USD | [Satın Al](https://carbrands.com.tr/buy-now) |
+| 🏷 **Marka + Model** | Marka ve model bilgilerini satın alırsınız (3600 model) | 💲75 USD | [Satın Al](https://carbrands.com.tr/buy-now) |
+| 🏷 **Marka + Model + Altmodel** | Marka, model ve altmodel bilgilerini satın alırsınız (10.119 altmodel) | 💲250 USD | [Satın Al](https://carbrands.com.tr/buy-now) |
+| 🏷 **Marka + Model + Altmodel + Seçenekler** | Marka, model, altmodel ve model seçeneklerini satın alırsınız (54.650 seçenek) | 💲1.500 USD | [Satın Al](https://carbrands.com.tr/buy-now) |
+| 🏷 **Tüm Detaylar** | Tüm detaylı verileri satın alırsınız (54.650 detay) | 💲5.000 USD | [Satın Al](https://carbrands.com.tr/buy-now) |
+| 🏍 **Motosiklet Verileri** | Tüm motosiklet detaylı verileri satın alırsınız (84 marka / 5.663 model) | 💲500 USD | [Satın Al](https://carbrands.com.tr/buy-now) |
+| ⚙️ **Hacim-Ağırlık Verileri** | Araç Hacim ve Ağırlık bilgileri | 💲125 USD | [Satın Al](https://carbrands.com.tr/buy-now) |
+| ⚖️ **Araba Boyutları** | Araç Boyut bilgileri | 💲125 USD | [Satın Al](https://carbrands.com.tr/buy-now) |
+| 🏎 **Motor Performans** | Motor Performans bilgileri | 💲125 USD | [Satın Al](https://carbrands.com.tr/buy-now) |
+| ⛽ **Yakıt Tüketimi** | Yakıt Tüketim verileri | 💲125 USD | [Satın Al](https://carbrands.com.tr/buy-now) |
+| 🔋 **Batarya Verileri** | Araç Batarya bilgileri | 💲250 USD | [Satın Al](https://carbrands.com.tr/buy-now) |
+| 🛞 **Lastik Ölçüleri** | Lastik ölçüleri bilgileri | 💲250 USD | [Satın Al](https://carbrands.com.tr/buy-now) |
+| 🛞 **Jant Ölçüleri** | Jant ölçüleri bilgileri | 💲250 USD | [Satın Al](https://carbrands.com.tr/buy-now) |
+| ✨ **Özel İstek** | Özel veri istekleri | 💲0 USD | [Satın Al](https://carbrands.com.tr/buy-now) |
 
 ---
 
 ## 📁 İçerik
-
-Veritabanı şu bilgileri kapsamaktadır:
 
 - ✅ 350+ Araba Markası  
 - ✅ 10.000+ Model ve Alt Model  
@@ -28,14 +42,12 @@ Veritabanı şu bilgileri kapsamaktadır:
 
 ## 🧩 Kullanım Alanları
 
-Bu veritabanı, aşağıdaki alanlar için uygundur:
-
-- Oto Ekspertiz Programları  
-- Araç Teknik Özellik Siteleri  
-- İkinci El Araç Platformları  
-- Rent A Car Yazılımları  
-- Araç Karşılaştırma Sistemleri  
-- Otomobil Haber Siteleri  
+- 🖥 Oto Ekspertiz Programları  
+- 🌐 Araç Teknik Özellik Siteleri  
+- 🚘 İkinci El Araç Platformları  
+- 🏢 Rent A Car Yazılımları  
+- ⚖️ Araç Karşılaştırma Sistemleri  
+- 📰 Otomobil Haber Siteleri  
 
 ---
 
@@ -73,8 +85,8 @@ CREATE TABLE model_secenekler (
   alt_model_id INT,
   secenek_adi VARCHAR(255)
 );
-```
 ---
+```
 
 ## 🧩 Entegrasyon Kolaylığı
 PHP + MySQL uyumlu
