@@ -13,20 +13,20 @@ Veritabanını hemen satın almak için paket seçenekleri:
 
 | Paket | İçerik | Fiyat | Satın Alma |
 |:------|:-------|:-----|:-----------|
-| 🏷 **Marka** | Marka bilgilerini satın alırsınız | 💲25 USD | [Satın Al](https://carbrands.com.tr/buy-now) |
-| 🏷 **Marka + Model** | Marka ve model bilgilerini satın alırsınız | 💲75 USD | [Satın Al](https://carbrands.com.tr/buy-now) |
-| 🏷 **Marka + Model + Altmodel** | Marka, model ve altmodel bilgilerini satın alırsınız | 💲250 USD | [Satın Al](https://carbrands.com.tr/buy-now) |
-| 🏷 **Marka + Model + Altmodel + Seçenekler** | Marka, model, altmodel ve model seçeneklerini satın alırsınız | 💲1.500 USD | [Satın Al](https://carbrands.com.tr/buy-now) |
-| 🏷 **Tüm Detaylar** | Tüm detaylı verileri satın alırsınız | 💲5.000 USD | [Satın Al](https://carbrands.com.tr/buy-now) |
-| 🏍 **Motosiklet Verileri** | Tüm motosiklet detaylı verileri satın alırsınız | 💲500 USD | [Satın Al](https://carbrands.com.tr/buy-now) |
-| ⚙️ **Hacim-Ağırlık Verileri** | Araç Hacim ve Ağırlık bilgileri | 💲125 USD | [Satın Al](https://carbrands.com.tr/buy-now) |
-| ⚖️ **Araba Boyutları** | Araç Boyut bilgileri | 💲125 USD | [Satın Al](https://carbrands.com.tr/buy-now) |
-| 🏎 **Motor Performans** | Motor Performans bilgileri | 💲125 USD | [Satın Al](https://carbrands.com.tr/buy-now) |
-| ⛽ **Yakıt Tüketimi** | Yakıt Tüketim verileri | 💲125 USD | [Satın Al](https://carbrands.com.tr/buy-now) |
-| 🔋 **Batarya Verileri** | Araç Batarya bilgileri | 💲250 USD | [Satın Al](https://carbrands.com.tr/buy-now) |
-| 🛞 **Lastik Ölçüleri** | Lastik ölçüleri bilgileri | 💲250 USD | [Satın Al](https://carbrands.com.tr/buy-now) |
-| 🛞 **Jant Ölçüleri** | Jant ölçüleri bilgileri | 💲250 USD | [Satın Al](https://carbrands.com.tr/buy-now) |
-| ✨ **Özel İstek** | Özel veri istekleri | 💲0 USD | [Satın Al](https://carbrands.com.tr/buy-now) |
+| 🏷 **Marka** | Marka bilgilerini satın alırsınız | 💲25 | [Satın Al](https://carbrands.com.tr/buy-now) |
+| 🏷 **Marka + Model** | Marka ve model bilgilerini satın alırsınız | 💲75 | [Satın Al](https://carbrands.com.tr/buy-now) |
+| 🏷 **Marka + Model + Altmodel** | Marka, model ve altmodel bilgilerini satın alırsınız | 💲250 | [Satın Al](https://carbrands.com.tr/buy-now) |
+| 🏷 **Marka + Model + Altmodel + Seçenekler** | Marka, model, altmodel ve model seçeneklerini satın alırsınız | 💲1.500 | [Satın Al](https://carbrands.com.tr/buy-now) |
+| 🏷 **Tüm Detaylar** | Tüm detaylı verileri satın alırsınız | 💲5.000 | [Satın Al](https://carbrands.com.tr/buy-now) |
+| 🏍 **Motosiklet Verileri** | Tüm motosiklet detaylı verileri satın alırsınız | 💲500 | [Satın Al](https://carbrands.com.tr/buy-now) |
+| ⚙️ **Hacim-Ağırlık Verileri** | Araç Hacim ve Ağırlık bilgileri | 💲125 | [Satın Al](https://carbrands.com.tr/buy-now) |
+| ⚖️ **Araba Boyutları** | Araç Boyut bilgileri | 💲125 | [Satın Al](https://carbrands.com.tr/buy-now) |
+| 🏎 **Motor Performans** | Motor Performans bilgileri | 💲125 | [Satın Al](https://carbrands.com.tr/buy-now) |
+| ⛽ **Yakıt Tüketimi** | Yakıt Tüketim verileri | 💲125 | [Satın Al](https://carbrands.com.tr/buy-now) |
+| 🔋 **Batarya Verileri** | Araç Batarya bilgileri | 💲250 | [Satın Al](https://carbrands.com.tr/buy-now) |
+| 🛞 **Lastik Ölçüleri** | Lastik ölçüleri bilgileri | 💲250 | [Satın Al](https://carbrands.com.tr/buy-now) |
+| 🛞 **Jant Ölçüleri** | Jant ölçüleri bilgileri | 💲250 | [Satın Al](https://carbrands.com.tr/buy-now) |
+| ✨ **Özel İstek** | Özel veri istekleri | 💲0 | [Satın Al](https://carbrands.com.tr/buy-now) |
 
 ## 📁 İçerik
 
