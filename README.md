@@ -10,7 +10,7 @@ Bu proje, 2025 yılına ait **en güncel otomobil marka, model, alt model ve don
 
 Veritabanını hemen satın almak için:
 
-👉 [https://dijitalsite.com.tr/2025-arac-marka-model-sql-veritabani](https://dijitalsite.com.tr/2025-arac-marka-model-sql-veritabani)
+👉 [https://carbrands.com.tr/buy-now](https://carbrands.com.tr/buy-now)
 
 ---
 
