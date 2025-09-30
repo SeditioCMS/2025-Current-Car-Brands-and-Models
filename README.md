@@ -49,6 +49,24 @@ Veritabanını hemen satın almak için paket seçenekleri:
 
 ---
 
+## 🧩 Entegrasyon Kolaylığı
+- PHP + MySQL uyumlu
+- Laravel, CodeIgniter gibi framework'lerde kolay entegrasyon
+- JSON API oluşturmak için kullanılabilir
+- Mobil ve web uygulamalarda hızlı entegre edilebilir
+
+## 📄 Lisans
+- Bu veritabanı sadece satın alan kullanıcı/kuruma aittir.
+- Ticari veya bireysel projelerde kullanılabilir.
+- Yeniden satılması veya üçüncü kişilere dağıtılması kesinlikle yasaktır.
+
+## 📬 İletişim & Destek
+Özel projeler için marka/model filtrelenmiş özel veri ihtiyaçlarınız varsa bizimle iletişime geçebilirsiniz:
+
+- 🌐 https://carbrands.com.tr
+- 📧 bilgi@carbrands.com.tr
+
+
 ## 🛠 Örnek Tablo Yapısı
 
 ```sql
@@ -85,22 +103,5 @@ CREATE TABLE model_secenekler (
 );
 ---
 ```
-
-## 🧩 Entegrasyon Kolaylığı
-- PHP + MySQL uyumlu
-- Laravel, CodeIgniter gibi framework'lerde kolay entegrasyon
-- JSON API oluşturmak için kullanılabilir
-- Mobil ve web uygulamalarda hızlı entegre edilebilir
-
-## 📄 Lisans
-- Bu veritabanı sadece satın alan kullanıcı/kuruma aittir.
-- Ticari veya bireysel projelerde kullanılabilir.
-- Yeniden satılması veya üçüncü kişilere dağıtılması kesinlikle yasaktır.
-
-## 📬 İletişim & Destek
-Özel projeler için marka/model filtrelenmiş özel veri ihtiyaçlarınız varsa bizimle iletişime geçebilirsiniz:
-
-- 🌐 https://carbrands.com.tr
-- 📧 bilgi@carbrands.com.tr
 
 
