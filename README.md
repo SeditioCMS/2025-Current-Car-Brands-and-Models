@@ -12,7 +12,7 @@ Oto ekspertiz, araç karşılaştırma, araç listeleme, galeri ve teknik incele
 Veritabanını hemen satın almak için paket seçenekleri:
 
 | Paket | İçerik | Fiyat | Satın Alma |
-|:----:|:------|:-----:|:-----------|
+|:------|:-------|:-----|:-----------|
 | 🏷 **Marka** | Marka bilgilerini satın alırsınız | 💲25 USD | [Satın Al](https://carbrands.com.tr/buy-now) |
 | 🏷 **Marka + Model** | Marka ve model bilgilerini satın alırsınız | 💲75 USD | [Satın Al](https://carbrands.com.tr/buy-now) |
 | 🏷 **Marka + Model + Altmodel** | Marka, model ve altmodel bilgilerini satın alırsınız | 💲250 USD | [Satın Al](https://carbrands.com.tr/buy-now) |
@@ -27,8 +27,6 @@ Veritabanını hemen satın almak için paket seçenekleri:
 | 🛞 **Lastik Ölçüleri** | Lastik ölçüleri bilgileri | 💲250 USD | [Satın Al](https://carbrands.com.tr/buy-now) |
 | 🛞 **Jant Ölçüleri** | Jant ölçüleri bilgileri | 💲250 USD | [Satın Al](https://carbrands.com.tr/buy-now) |
 | ✨ **Özel İstek** | Özel veri istekleri | 💲0 USD | [Satın Al](https://carbrands.com.tr/buy-now) |
-
----
 
 ## 📁 İçerik
 
