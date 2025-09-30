@@ -13,12 +13,12 @@ Veritabanını hemen satın almak için paket seçenekleri:
 
 | Paket | İçerik | Fiyat | Satın Alma |
 |:----:|:------|:-----:|:-----------|
-| 🏷 **Marka** | Marka bilgilerini satın alırsınız (355 marka) | 💲25 USD | [Satın Al](https://carbrands.com.tr/buy-now) |
-| 🏷 **Marka + Model** | Marka ve model bilgilerini satın alırsınız (3600 model) | 💲75 USD | [Satın Al](https://carbrands.com.tr/buy-now) |
-| 🏷 **Marka + Model + Altmodel** | Marka, model ve altmodel bilgilerini satın alırsınız (10.119 altmodel) | 💲250 USD | [Satın Al](https://carbrands.com.tr/buy-now) |
-| 🏷 **Marka + Model + Altmodel + Seçenekler** | Marka, model, altmodel ve model seçeneklerini satın alırsınız (54.650 seçenek) | 💲1.500 USD | [Satın Al](https://carbrands.com.tr/buy-now) |
-| 🏷 **Tüm Detaylar** | Tüm detaylı verileri satın alırsınız (54.650 detay) | 💲5.000 USD | [Satın Al](https://carbrands.com.tr/buy-now) |
-| 🏍 **Motosiklet Verileri** | Tüm motosiklet detaylı verileri satın alırsınız (84 marka / 5.663 model) | 💲500 USD | [Satın Al](https://carbrands.com.tr/buy-now) |
+| 🏷 **Marka** | Marka bilgilerini satın alırsınız | 💲25 USD | [Satın Al](https://carbrands.com.tr/buy-now) |
+| 🏷 **Marka + Model** | Marka ve model bilgilerini satın alırsınız | 💲75 USD | [Satın Al](https://carbrands.com.tr/buy-now) |
+| 🏷 **Marka + Model + Altmodel** | Marka, model ve altmodel bilgilerini satın alırsınız | 💲250 USD | [Satın Al](https://carbrands.com.tr/buy-now) |
+| 🏷 **Marka + Model + Altmodel + Seçenekler** | Marka, model, altmodel ve model seçeneklerini satın alırsınız | 💲1.500 USD | [Satın Al](https://carbrands.com.tr/buy-now) |
+| 🏷 **Tüm Detaylar** | Tüm detaylı verileri satın alırsınız | 💲5.000 USD | [Satın Al](https://carbrands.com.tr/buy-now) |
+| 🏍 **Motosiklet Verileri** | Tüm motosiklet detaylı verileri satın alırsınız | 💲500 USD | [Satın Al](https://carbrands.com.tr/buy-now) |
 | ⚙️ **Hacim-Ağırlık Verileri** | Araç Hacim ve Ağırlık bilgileri | 💲125 USD | [Satın Al](https://carbrands.com.tr/buy-now) |
 | ⚖️ **Araba Boyutları** | Araç Boyut bilgileri | 💲125 USD | [Satın Al](https://carbrands.com.tr/buy-now) |
 | 🏎 **Motor Performans** | Motor Performans bilgileri | 💲125 USD | [Satın Al](https://carbrands.com.tr/buy-now) |
