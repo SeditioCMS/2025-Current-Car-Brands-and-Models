@@ -82,20 +82,19 @@ You can purchase the database immediately with the following packages:
 
 | Package | Content | Price | Purchase |
 |:--------|:--------|:-----|:---------|
-| 🏷 **Brand** | Get brand information only | 💲25 | [Buy Now](https://carbrands.com.tr/buy-now) |
-| 🏷 **Brand + Model** | Get brand and model information | 💲75 | [Buy Now](https://carbrands.com.tr/buy-now) |
+| 🏷 **Brand** | Get brand information only | 💲50 | [Buy Now](https://carbrands.com.tr/buy-now) |
+| 🏷 **Brand + Model** | Get brand and model information | 💲100 | [Buy Now](https://carbrands.com.tr/buy-now) |
 | 🏷 **Brand + Model + Submodel** | Get brand, model, and submodel information | 💲250 | [Buy Now](https://carbrands.com.tr/buy-now) |
 | 🏷 **Brand + Model + Submodel + Options** | Get brand, model, submodel, and trim/options | 💲1,500 | [Buy Now](https://carbrands.com.tr/buy-now) |
 | 🏷 **Full Details** | Get all detailed data | 💲5,000 | [Buy Now](https://carbrands.com.tr/buy-now) |
-| 🏍 **Motorcycle Data** | All detailed motorcycle data | 💲500 | [Buy Now](https://carbrands.com.tr/buy-now) |
-| ⚙️ **Volume & Weight Data** | Vehicle volume and weight information | 💲125 | [Buy Now](https://carbrands.com.tr/buy-now) |
-| ⚖️ **Car Dimensions** | Vehicle dimensions information | 💲125 | [Buy Now](https://carbrands.com.tr/buy-now) |
-| 🏎 **Engine Performance** | Engine performance information | 💲125 | [Buy Now](https://carbrands.com.tr/buy-now) |
-| ⛽ **Fuel Consumption** | Fuel consumption data | 💲125 | [Buy Now](https://carbrands.com.tr/buy-now) |
-| 🔋 **Battery Data** | Vehicle battery information | 💲250 | [Buy Now](https://carbrands.com.tr/buy-now) |
-| 🛞 **Tire Sizes** | Tire size information | 💲250 | [Buy Now](https://carbrands.com.tr/buy-now) |
-| 🛞 **Wheel Sizes** | Wheel size information | 💲250 | [Buy Now](https://carbrands.com.tr/buy-now) |
-| ✨ **Custom Requests** | Custom data requests | 💲0 | [Buy Now](https://carbrands.com.tr/buy-now) |
+| ⚙️ **Volume & Weight Data** | Vehicle volume and weight information | 💲500 | [Buy Now](https://carbrands.com.tr/buy-now) |
+| ⚖️ **Car Dimensions** | Vehicle dimensions information | 💲500 | [Buy Now](https://carbrands.com.tr/buy-now) |
+| 🏎 **Engine Performance** | Engine performance information | 💲500 | [Buy Now](https://carbrands.com.tr/buy-now) |
+| ⛽ **Fuel Consumption** | Fuel consumption data | 💲500 | [Buy Now](https://carbrands.com.tr/buy-now) |
+| 🔋 **Battery Data** | Vehicle battery information | 💲500 | [Buy Now](https://carbrands.com.tr/buy-now) |
+| 🛞 **Tire Sizes** | Tire size information | 💲500 | [Buy Now](https://carbrands.com.tr/buy-now) |
+| 🛞 **Wheel Sizes** | Wheel size information | 💲500 | [Buy Now](https://carbrands.com.tr/buy-now) |
+| ✨ **Custom Requests** | Custom data requests | 💲500 | [Buy Now](https://carbrands.com.tr/buy-now) |
 
 ---
 
